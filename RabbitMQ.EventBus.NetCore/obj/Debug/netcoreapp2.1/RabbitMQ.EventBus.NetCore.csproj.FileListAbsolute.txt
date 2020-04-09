@@ -1,0 +1,9 @@
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\bin\Debug\netcoreapp2.1\RabbitMQ.EventBus.NetCore.deps.json
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\bin\Debug\netcoreapp2.1\RabbitMQ.EventBus.NetCore.dll
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\bin\Debug\netcoreapp2.1\RabbitMQ.EventBus.NetCore.pdb
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\obj\Debug\netcoreapp2.1\RabbitMQ.EventBus.NetCore.csprojAssemblyReference.cache
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\obj\Debug\netcoreapp2.1\RabbitMQ.EventBus.NetCore.csproj.CoreCompileInputs.cache
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\obj\Debug\netcoreapp2.1\RabbitMQ.EventBus.NetCore.AssemblyInfoInputs.cache
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\obj\Debug\netcoreapp2.1\RabbitMQ.EventBus.NetCore.AssemblyInfo.cs
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\obj\Debug\netcoreapp2.1\RabbitMQ.EventBus.NetCore.dll
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\obj\Debug\netcoreapp2.1\RabbitMQ.EventBus.NetCore.pdb

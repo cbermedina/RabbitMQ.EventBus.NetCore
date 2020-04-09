@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Version>1.0.1</Version>
+    <Copyright>Renato Burton</Copyright>
+    <Authors>Renato Burton</Authors>
+    <Company>Renato Burton</Company>
+    <Description>The RabbitMQ is an open source messaging software that originally implemented the Protocol "Advanced Message Queuing Protocol" and has been extended with a plug-in architecture to support the Protocol "Streaming Text Oriented Messaging Protocol", MQTT among other protocols.</Description>
+    <RepositoryUrl>https://github.com/srburton/RabbitMQ.EventBus.NetCore</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
+    <PackageTags>RabbitMq,Queue,Rabbit.Client</PackageTags>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <PackageLicenseUrl>https://en.wikipedia.org/wiki/MIT_License</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/srburton/RabbitMQ.EventBus.NetCore</PackageProjectUrl>
+    <PackageIconUrl>http://i67.tinypic.com/2n1xdm8_th.png</PackageIconUrl>
+  </PropertyGroup>
+  
+ <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="Polly" Version="6.1.2" />
+    <PackageReference Include="RabbitMQ.Client" Version="5.1.0" />
+  </ItemGroup>
+
+
+</Project>

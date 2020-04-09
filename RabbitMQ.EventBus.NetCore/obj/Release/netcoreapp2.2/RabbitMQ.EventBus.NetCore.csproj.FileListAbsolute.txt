@@ -1,0 +1,11 @@
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\bin\Release\netcoreapp2.2\RabbitMQ.EventBus.NetCore.deps.json
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\bin\Release\netcoreapp2.2\RabbitMQ.EventBus.NetCore.runtimeconfig.json
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\bin\Release\netcoreapp2.2\RabbitMQ.EventBus.NetCore.runtimeconfig.dev.json
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\bin\Release\netcoreapp2.2\RabbitMQ.EventBus.NetCore.dll
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\bin\Release\netcoreapp2.2\RabbitMQ.EventBus.NetCore.pdb
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\obj\Release\netcoreapp2.2\RabbitMQ.EventBus.NetCore.csprojAssemblyReference.cache
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\obj\Release\netcoreapp2.2\RabbitMQ.EventBus.NetCore.csproj.CoreCompileInputs.cache
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\obj\Release\netcoreapp2.2\RabbitMQ.EventBus.NetCore.AssemblyInfoInputs.cache
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\obj\Release\netcoreapp2.2\RabbitMQ.EventBus.NetCore.AssemblyInfo.cs
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\obj\Release\netcoreapp2.2\RabbitMQ.EventBus.NetCore.dll
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore\obj\Release\netcoreapp2.2\RabbitMQ.EventBus.NetCore.pdb

@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\GitHub\\RabbitMQ.EventBus.NetCore\\RabbitMQ.EventBus.NetCore\\RabbitMQ.EventBus.NetCore.csproj": {}
+  },
+  "projects": {
+    "Z:\\GitHub\\RabbitMQ.EventBus.NetCore\\RabbitMQ.EventBus.NetCore\\RabbitMQ.EventBus.NetCore.csproj": {
+      "version": "1.0.1",
+      "restore": {
+        "projectUniqueName": "Z:\\GitHub\\RabbitMQ.EventBus.NetCore\\RabbitMQ.EventBus.NetCore\\RabbitMQ.EventBus.NetCore.csproj",
+        "projectName": "RabbitMQ.EventBus.NetCore",
+        "projectPath": "Z:\\GitHub\\RabbitMQ.EventBus.NetCore\\RabbitMQ.EventBus.NetCore\\RabbitMQ.EventBus.NetCore.csproj",
+        "packagesPath": "C:\\Users\\cupegui\\.nuget\\packages\\",
+        "outputPath": "Z:\\GitHub\\RabbitMQ.EventBus.NetCore\\RabbitMQ.EventBus.NetCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cupegui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
